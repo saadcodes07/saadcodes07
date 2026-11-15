@@ -1,16 +1,21 @@
-## Hi there 👋
+# Azmain Zaman Saad
 
-<!--
-**saadcodes07/saadcodes07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student at IUBAT.
 
-Here are some ideas to get you started:
+### About Me
+I am a university student interested in programming and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+- University: IUBAT
+- Department: Computer Science & Engineering
+
+### Programming
+- C Programming
+
+### GitHub Activities
+- University Assignments
+- Programming Practice
+- Problem Solving
+
+### Contact
+- GitHub: [@saadcodes07](https://github.com/saadcodes07)
